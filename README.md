@@ -43,7 +43,7 @@ Some of my pieces can be found over at my <a href="https://www.artstation.com/no
 <p align="center">
 <a href="https://www.linkedin.com/in/denys-voznyak-a54983230/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
 <a href="https://codepen.io/Normaly0" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt=""/></a>
-<a href="" target="mailto:den.voznyak@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:den.voznyak@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.artstation.com/normaly" target="blank"><img align="center" src="https://img.shields.io/badge/ArtStation-404040?style=for-the-badge&logo=ArtStation&logoColor=white"/></a>
 </p>
 <br>
