@@ -20,7 +20,7 @@
   Web Development aside though I'm also a 3D artist mainly focusing on modeling realistic environments and abstract art pieces. I do most of my work in Blender with post           processing being done in either Adobe After Effects or Adobe Photoshop. 
 </p>
 <p align="center">
-Some of my pieces can be found over at my <a href="https://www.artstation.com/normaly" target="blank">ArtStation</a>, although I also do a lot of commission work that can be seen on my personal <a href="https://normaly0.github.io/" target="blank">website</a>!
+Some of my pieces can be found over at my <a href="https://www.artstation.com/normaly" target="_blank">ArtStation</a>, although I also do a lot of commission work that can be seen on my personal <a href="https://normaly0.github.io/" target="_blank">website</a>!
 
 ## <p align="center">Technology Stack</p>
 <div align="center">
@@ -41,10 +41,10 @@ Some of my pieces can be found over at my <a href="https://www.artstation.com/no
 <h2 align="center">Connect with me</h2>
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/denys-voznyak-a54983230/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
-<a href="https://codepen.io/Normaly0" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt=""/></a>
+<a href="https://www.linkedin.com/in/denys-voznyak-a54983230/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
+<a href="https://codepen.io/Normaly0" target="_blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt=""/></a>
 <a href="mailto:den.voznyak@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.artstation.com/normaly" target="blank"><img align="center" src="https://img.shields.io/badge/ArtStation-404040?style=for-the-badge&logo=ArtStation&logoColor=white"/></a>
+<a href="https://www.artstation.com/normaly" target="_blank"><img align="center" src="https://img.shields.io/badge/ArtStation-404040?style=for-the-badge&logo=ArtStation&logoColor=white"/></a>
 </p>
 <br>
 
