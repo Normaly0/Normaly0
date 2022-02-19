@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/40768391/154719115-63530f82-4a36-43c3-a8d0-f9ff0cc2135b.png)
+![MasterHead](https://user-images.githubusercontent.com/40768391/154804560-32c7d66f-f5d8-43e2-a7ea-c71d7dc43c7d.png)
 <div align="center">
   
 ![Repos Badge](https://badges.pufler.dev/repos/Normaly0) ![Commits Badge](https://badges.pufler.dev/commits/monthly/Normaly0)
