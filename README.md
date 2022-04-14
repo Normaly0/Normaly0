@@ -1,6 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/40768391/154804560-32c7d66f-f5d8-43e2-a7ea-c71d7dc43c7d.png)
+![MasterHead](https://user-images.githubusercontent.com/40768391/163394177-faaf1e25-07bc-4b97-8549-a87d5472b4a8.png)
 <div align="center">
-  
+
 ![Repos Badge](https://badges.pufler.dev/repos/Normaly0) ![Commits Badge](https://badges.pufler.dev/commits/monthly/Normaly0)
 </div>
 <h3 align="center">Web Dev | 3D Artist | Berlin | Stockholm</h3>
@@ -8,16 +8,16 @@
 ## <p align="center">About<p>
 <p align="center">:wave:</p>
 <p align="center">
-  Hey, my name is Normaly/Denys and I'm currently working towards educating myself in the field of web development!
-  In order to achieve this I've been studying using various resources, as well as engaging in conversations with people that are currently working in this field.
+  Hey, my name is Normaly/Denys and I'm a self-taught web developer and 3D artist currently living in Berlin.
+  Last year I made the decision to change up my career and since then I've been studying using various resources, as well as engaging in conversations with people that are currently working in this field.
 </p>
 <p align="center">:clipboard:</p>
 <p align="center">
-  In my efforts to further progress my studies as well as gain some important work experience I'm now looking into internships, as I'm super excited to use the knowledge that I   gathered to work on projects alongside other people that I can learn from.
+  In my efforts to further progress my studies as well as gain some important work experience I now went through an internship and am now looking for an employment, as   I'm super excited to use the knowledge that I gathered to work on projects alongside other people that I can learn from.
 </p>
 <p align="center">🖋️</p>
 <p align="center">
-  Web Development aside though I'm also a 3D artist mainly focusing on modeling realistic environments and abstract art pieces. I do most of my work in Blender with post           processing being done in either Adobe After Effects or Adobe Photoshop. 
+  Web Development aside though I'm also a 3D artist mainly focusing on modeling realistic environments and abstract art pieces. I do most of my work in Blender with post processing being done in either After Effects or Photoshop.
 </p>
 <p align="center">
 Some of my pieces can be found over at my <a href="https://www.artstation.com/normaly" target="_blank">ArtStation</a>, although I also do a lot of commission work that can be seen on my personal <a href="https://normaly0.github.io/" target="_blank">website</a>!
