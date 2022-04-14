@@ -13,7 +13,7 @@
 </p>
 <p align="center">:clipboard:</p>
 <p align="center">
-  In my efforts to further progress my studies as well as gain some important work experience I now went through an internship and am now looking for an employment, as   I'm super excited to use the knowledge that I gathered to work on projects alongside other people that I can learn from.
+  In my efforts to further progress my studies as well as gain some important work experience I went through an internship and am now looking for an employment, as   I'm super excited to use the knowledge that I gathered to work on projects alongside other people that I can learn from.
 </p>
 <p align="center">🖋️</p>
 <p align="center">
