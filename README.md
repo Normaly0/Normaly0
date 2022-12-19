@@ -9,23 +9,22 @@
 <p align="center">:wave:</p>
 <p align="center">
   Hey, my name is Normaly/Denys and I'm a self-taught web developer and 3D artist currently living in Berlin.
-  Last year I made the decision to change up my career and since then I've been studying using various resources, as well as engaging in conversations with people that are currently working in this field.
+  Last year I made the decision to change up my career and spend the next 6+ months studying on my own using various resources, as well as engaging in conversations with field professionals. All of that lead to my current job at <a href="https://www.eobiont.de/" target="_blank">Eobiot</a>!
 </p>
 <p align="center">:clipboard:</p>
 <p align="center">
-  In my efforts to further progress my studies as well as gain some important work experience I went through an internship and am now looking for an employment, as   I'm super excited to use the knowledge that I gathered to work on projects alongside other people that I can learn from.
+  In my efforts to further progress my studies as well as gain some important work experience I went through an internship before looking for a permanent employment. During my time at Eobiont I've had the time and opportunity to learn PHP, development for CMS systems like Wordpress and deepen my knowledge in React.
 </p>
 <p align="center">🖋️</p>
 <p align="center">
-  Web Development aside though I'm also a 3D artist mainly focusing on modeling realistic environments and abstract art pieces. I do most of my work in Blender with post processing being done in either After Effects or Photoshop.
+  A big chunk of my freetime is spend on 3D artworks. I mainly focus on creating photorealistic and believable scenes with a heavy focus on world building. My workflow for that includes Blender, various photogrammetry softwares and of course either Photoshop or After Effects.
 </p>
 <p align="center">
-Some of my pieces can be found over at my <a href="https://www.artstation.com/normaly" target="_blank">ArtStation</a>, although I also do a lot of commission work that can be seen on my personal <a href="https://normaly0.github.io/" target="_blank">website</a>!
-
+Most of mny work can be found over at my <a href="https://www.artstation.com/normaly" target="_blank">ArtStation</a> page, altho I also post to other platforms like <a href="https://www.instagram.com/normaly3d/" target="_blank">Instagram</a>.
 ## <p align="center">Technology Stack</p>
 <div align="center">
   
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
   
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   
@@ -34,7 +33,7 @@ Some of my pieces can be found over at my <a href="https://www.artstation.com/no
 <img src="https://activity-graph.herokuapp.com/graph?username=Normaly0&theme=dracula"> </img>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Normaly0&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Normaly0&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </div>
 
