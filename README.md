@@ -9,7 +9,7 @@
 <p align="center">:wave:</p>
 <p align="center">
   Hey, my name is Normaly/Denys and I'm a self-taught web developer and 3D artist currently living in Berlin.
-  Last year I made the decision to change up my career and spend the next 6+ months studying on my own using various resources, as well as engaging in conversations with field professionals. All of that lead to my current job at <a href="https://www.eobiont.de/" target="_blank">Eobiot</a>!
+  Last year I made the decision to change up my career and spend the next 6+ months studying on my own using various resources, as well as engaging in conversations with field professionals. All of that lead to my current job at <a href="https://www.eobiont.de/" target="_blank">Eobiont</a>!
 </p>
 <p align="center">:clipboard:</p>
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 <p align="center">
 Most of mny work can be found over at my <a href="https://www.artstation.com/normaly" target="_blank">ArtStation</a> page, altho I also post to other platforms like <a href="https://www.instagram.com/normaly3d/" target="_blank">Instagram</a>.
-## <p align="center">Technology Stack</p>
+<p align="center">Technology Stack</p>
 <div align="center">
   
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
