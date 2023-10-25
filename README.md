@@ -8,19 +8,24 @@
 ## <p align="center">About<p>
 <p align="center">:wave:</p>
 <p align="center">
-  Hey, my name is Normaly/Denys and I'm a self-taught web developer and 3D artist currently living in Berlin.
-  Last year I made the decision to change up my career and spend the next 6+ months studying on my own using various resources, as well as engaging in conversations with field professionals. All of that lead to my current job at <a href="https://www.eobiont.de/" target="_blank">Eobiont</a>!
+  Heya,
+  <br>
+  I'm Denys—an autodidact full-stack developer and 3D artist. Originally from Ukraine, I spent a considerable time in Germany before making Sweden my new home.
 </p>
 <p align="center">:clipboard:</p>
 <p align="center">
-  In my efforts to further progress my studies as well as gain some important work experience I went through an internship before looking for a permanent employment. During my time at Eobiont I've had the time and opportunity to learn PHP, development for CMS systems like Wordpress and deepen my knowledge in React.
+  Before delving into the realm of web development, I had a four-year journey as a beekeeper. This unique path enhanced my skills in team leadership and project coordination.
+  <br>
+  Over time, I've refined my skills and ventured into backend development. With a strong passion for art and design, I'm actively involved in shaping project aesthetics and enhancing user experiences.
+  <br>
+  This passion and my development skills have converged to create immersive websites that blend artistry and functionality, such as <a href="https://eobiont.com" target="_blank">eobiont.com</a>!
 </p>
 <p align="center">🖋️</p>
 <p align="center">
-  A big chunk of my freetime is spend on 3D artworks. I mainly focus on creating photorealistic and believable scenes with a heavy focus on world building. My workflow for that includes Blender, various photogrammetry softwares and of course either Photoshop or After Effects.
+  In my pursuit of 3D art, I primarily focus on crafting photorealistic environments. However, recently, I've been exploring a lot of experimental visuals.
 </p>
 <p align="center">
-Most of mny work can be found over at my <a href="https://www.artstation.com/normaly" target="_blank">ArtStation</a> page, altho I also post to other platforms like <a href="https://www.instagram.com/normaly3d/" target="_blank">Instagram</a>.
+Most of my work can be found over at my <a href="https://www.artstation.com/normaly" target="_blank">ArtStation</a> page, altho I also post to other platforms like <a href="https://www.instagram.com/normaly3d/" target="_blank">Instagram</a>.
 <p align="center">Technology Stack</p>
 <div align="center">
   
